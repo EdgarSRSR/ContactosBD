@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactosBD</string>
+    <string name="nombre">Edgar Solis</string>
+    <string name="telefono">55557777</string>
+    <string name="email">cosmicpanda_90@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="likes">Likes</string>
+    <string name="psearch">buscar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
